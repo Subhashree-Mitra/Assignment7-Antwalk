@@ -1,0 +1,27 @@
+*
+{
+    margin:0;
+    padding: 0;
+    background-color: rgb(236, 243, 171);
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 25vh;
+}
+#myTable
+{
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    border: solid 1px black;
+    text-align: center;
+    border-spacing: 10px;
+}
+#Buttonid
+{
+    width: 200px;
+    height: 100px;
+}
